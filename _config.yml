@@ -1,1 +1,9 @@
-theme: jekyll-theme-time-machine
+title: Renke Wu
+description: 
+google_analytics: UA-122601391-2
+show_downloads: false
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
+environment: production
